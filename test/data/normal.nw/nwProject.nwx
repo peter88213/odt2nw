@@ -1,0 +1,537 @@
+<?xml version='1.0' encoding='utf-8'?>
+<novelWriterXML appVersion="2.0.2" hexVersion="0x020002f0" fileVersion="1.5" timeStamp="2023-06-06 20:36:16">
+  <project>
+    <name>Hal Spacejock book one - Sample yWriter Project</name>
+    <title>Hal Spacejock book one - Sample yWriter Project</title>
+    <author>Simon Haynes</author>
+  </project>
+  <settings>
+    <status>
+      <entry key="s000001" count="0" blue="230" green="230" red="230">None</entry>
+      <entry key="s000002" count="0" blue="0" green="0" red="0">Outline</entry>
+      <entry key="s000003" count="0" blue="0" green="40" red="170">Draft</entry>
+      <entry key="s000004" count="0" blue="0" green="140" red="240">1st Edit</entry>
+      <entry key="s000005" count="0" blue="90" green="190" red="250">2nd Edit</entry>
+      <entry key="s000006" count="0" blue="58" green="180" red="58">Done</entry>
+    </status>
+    <importance>
+      <entry key="i000001" count="0" blue="220" green="220" red="220">None</entry>
+      <entry key="i000002" count="0" blue="188" green="122" red="0">Minor</entry>
+      <entry key="i000003" count="0" blue="180" green="0" red="21">Major</entry>
+    </importance>
+  </settings>
+  <content count="128">
+    <item handle="53ca4659fb3c2" parent="None" order="0" type="ROOT" class="NOVEL">
+      <name>Novel</name>
+      <meta />
+    </item>
+    <item handle="1984b83f298a4" parent="53ca4659fb3c2" order="0" type="FOLDER" class="NOVEL">
+      <name>Part 1</name>
+      <meta />
+    </item>
+    <item handle="3e34eef070f82" parent="1984b83f298a4" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Part 1</name>
+      <meta />
+    </item>
+    <item handle="152fa0496aa8e" parent="1984b83f298a4" order="1" type="FOLDER">
+      <name>Chapter 1</name>
+      <meta />
+    </item>
+    <item handle="4bbf271e974e4" parent="152fa0496aa8e" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 1</name>
+      <meta />
+    </item>
+    <item handle="b06f5402334f1" parent="152fa0496aa8e" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000003" import="i000001" active="yes">Meet Hal, threatened by Vurdi</name>
+      <meta charCount="2176" wordCount="375" />
+    </item>
+    <item handle="31218f0a00a03" parent="1984b83f298a4" order="2" type="FOLDER">
+      <name>Chapter 2</name>
+      <meta />
+    </item>
+    <item handle="45bda094e8711" parent="31218f0a00a03" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 2</name>
+      <meta />
+    </item>
+    <item handle="2afe8629485bd" parent="31218f0a00a03" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000003" import="i000001" active="yes">Jerling buys team. Discusses Seraph.</name>
+      <meta charCount="385" wordCount="66" />
+    </item>
+    <item handle="ecedb6125ccaf" parent="31218f0a00a03" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000003" import="i000001" active="yes">Hal takes a call from Jerling</name>
+      <meta charCount="475" wordCount="88" />
+    </item>
+    <item handle="01969242ac26a" parent="1984b83f298a4" order="3" type="FOLDER">
+      <name>Chapter 3</name>
+      <meta />
+    </item>
+    <item handle="f7aefba1c4af8" parent="01969242ac26a" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 3</name>
+      <meta />
+    </item>
+    <item handle="cdf25c6eb952f" parent="01969242ac26a" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000003" import="i000001" active="yes">Clunk arrives</name>
+      <meta charCount="375" wordCount="67" />
+    </item>
+    <item handle="6d8b80e7fd426" parent="1984b83f298a4" order="4" type="FOLDER">
+      <name>Chapter 4</name>
+      <meta />
+    </item>
+    <item handle="7cbd8a4db5ea3" parent="6d8b80e7fd426" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 4</name>
+      <meta />
+    </item>
+    <item handle="d791d38c77359" parent="6d8b80e7fd426" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000003" import="i000001" active="yes">Hal going to port control</name>
+      <meta charCount="1042" wordCount="175" />
+    </item>
+    <item handle="d8f74e05426f0" parent="6d8b80e7fd426" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000003" import="i000001" active="yes">Clunk checking computer for Incubots.</name>
+      <meta charCount="722" wordCount="125" />
+    </item>
+    <item handle="568a79de7502c" parent="6d8b80e7fd426" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000003" import="i000001" active="yes">Hal talking to the Portmaster</name>
+      <meta charCount="532" wordCount="89" />
+    </item>
+    <item handle="6b7602c5174fa" parent="6d8b80e7fd426" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000003" import="i000001" active="yes">Clunk takes call from Hal. Calls Jerling. Fire.</name>
+      <meta charCount="431" wordCount="74" />
+    </item>
+    <item handle="ac3789777911a" parent="1984b83f298a4" order="5" type="FOLDER">
+      <name>Chapter 5</name>
+      <meta />
+    </item>
+    <item handle="03351a1934206" parent="ac3789777911a" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 5</name>
+      <meta />
+    </item>
+    <item handle="e93b80d9084a7" parent="ac3789777911a" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000003" import="i000001" active="yes">Clunk calls, the landing field is on fire. Hal tells him to sit tight.</name>
+      <meta charCount="839" wordCount="156" />
+    </item>
+    <item handle="f294d015a79d7" parent="ac3789777911a" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000003" import="i000001" active="yes">Clunk fighting the fire, ends up face-down</name>
+      <meta charCount="187" wordCount="34" />
+    </item>
+    <item handle="a022792272130" parent="1984b83f298a4" order="6" type="FOLDER">
+      <name>Chapter 6</name>
+      <meta />
+    </item>
+    <item handle="9a3bdfeab6b3d" parent="a022792272130" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 6</name>
+      <meta />
+    </item>
+    <item handle="36fa6ab3f983f" parent="a022792272130" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Hal gets to the ship and lifts off.</name>
+      <meta />
+    </item>
+    <item handle="c32457dd851c1" parent="1984b83f298a4" order="7" type="FOLDER">
+      <name>Chapter 7</name>
+      <meta />
+    </item>
+    <item handle="f0fd2c0caec9f" parent="c32457dd851c1" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 7</name>
+      <meta />
+    </item>
+    <item handle="ba7e0810bc988" parent="c32457dd851c1" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Hal finds Clunk on rope, falls out after him.</name>
+      <meta />
+    </item>
+    <item handle="9cbbc7b09a483" parent="1984b83f298a4" order="8" type="FOLDER">
+      <name>Chapter 8</name>
+      <meta />
+    </item>
+    <item handle="39c3fa1fc62c6" parent="9cbbc7b09a483" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 8</name>
+      <meta />
+    </item>
+    <item handle="5bcc82ecf2a86" parent="9cbbc7b09a483" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Climb up rope to safety. Back in ship for hyperspace.</name>
+      <meta />
+    </item>
+    <item handle="a86953039da39" parent="1984b83f298a4" order="9" type="FOLDER">
+      <name>Chapter 9</name>
+      <meta />
+    </item>
+    <item handle="5abce960873d8" parent="a86953039da39" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 9</name>
+      <meta />
+    </item>
+    <item handle="af3c2d3fcad9b" parent="a86953039da39" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">In his office. Gordon OKs the deal</name>
+      <meta />
+    </item>
+    <item handle="37f7482ecc8e0" parent="1984b83f298a4" order="10" type="FOLDER">
+      <name>Chapter 10</name>
+      <meta />
+    </item>
+    <item handle="1119a52f7a768" parent="37f7482ecc8e0" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 10</name>
+      <meta />
+    </item>
+    <item handle="e7e07d041164a" parent="37f7482ecc8e0" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Exits the ship to meet Bevan</name>
+      <meta />
+    </item>
+    <item handle="587abab36a732" parent="1984b83f298a4" order="11" type="FOLDER">
+      <name>Chapter 11</name>
+      <meta />
+    </item>
+    <item handle="b1107eac621d8" parent="587abab36a732" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 11</name>
+      <meta />
+    </item>
+    <item handle="1361fc4d05c3c" parent="587abab36a732" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Getting food out. Frozen puddings.</name>
+      <meta />
+    </item>
+    <item handle="31d13a96d1c5f" parent="587abab36a732" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Says goodbye to Clunk</name>
+      <meta />
+    </item>
+    <item handle="d3634ed01ac54" parent="1984b83f298a4" order="12" type="FOLDER">
+      <name>Chapter 12</name>
+      <meta />
+    </item>
+    <item handle="65af3ce66ef73" parent="d3634ed01ac54" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 12</name>
+      <meta />
+    </item>
+    <item handle="2e6487c0417fa" parent="d3634ed01ac54" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Hal depressed. No escape from here.</name>
+      <meta />
+    </item>
+    <item handle="fc3d7e65bad7c" parent="d3634ed01ac54" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Lighten the ship. Preparing for liftoff.</name>
+      <meta />
+    </item>
+    <item handle="aca983fe3409d" parent="1984b83f298a4" order="13" type="FOLDER">
+      <name>Chapter 13</name>
+      <meta />
+    </item>
+    <item handle="5626519f38c97" parent="aca983fe3409d" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 13</name>
+      <meta />
+    </item>
+    <item handle="7662623fc0e33" parent="aca983fe3409d" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Karl and Terry awaiting Hal. They take a call from their spy, intercept is at the orbiter.</name>
+      <meta />
+    </item>
+    <item handle="1c2a8826c497d" parent="1984b83f298a4" order="14" type="FOLDER">
+      <name>Chapter 14</name>
+      <meta />
+    </item>
+    <item handle="962d53afacbb9" parent="1c2a8826c497d" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 14</name>
+      <meta />
+    </item>
+    <item handle="cbda55f2ede80" parent="1984b83f298a4" order="15" type="FOLDER">
+      <name>Chapter 15</name>
+      <meta />
+    </item>
+    <item handle="fc5c016644aec" parent="cbda55f2ede80" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 15</name>
+      <meta />
+    </item>
+    <item handle="f78b3dfb74c80" parent="cbda55f2ede80" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Karl waiting impatiently</name>
+      <meta />
+    </item>
+    <item handle="55dcd34e2666b" parent="cbda55f2ede80" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Karl and Terry confused about 'Chunk'</name>
+      <meta />
+    </item>
+    <item handle="3b483ea9208fc" parent="1984b83f298a4" order="16" type="FOLDER">
+      <name>Chapter 16</name>
+      <meta />
+    </item>
+    <item handle="22cfa2d4181fa" parent="3b483ea9208fc" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 16</name>
+      <meta />
+    </item>
+    <item handle="ee2f5da857bc4" parent="3b483ea9208fc" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Clunk slips out the back.</name>
+      <meta />
+    </item>
+    <item handle="576f57466c40a" parent="3b483ea9208fc" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Karl and Terry waiting.</name>
+      <meta />
+    </item>
+    <item handle="ae965d04282f8" parent="1984b83f298a4" order="17" type="FOLDER">
+      <name>Chapter 17</name>
+      <meta />
+    </item>
+    <item handle="9bdd160d37a10" parent="ae965d04282f8" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 17</name>
+      <meta />
+    </item>
+    <item handle="d86636608e187" parent="ae965d04282f8" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Clunk in orbit</name>
+      <meta />
+    </item>
+    <item handle="223803ed39116" parent="ae965d04282f8" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Clunk uses cylinder</name>
+      <meta />
+    </item>
+    <item handle="63fbee34527d3" parent="53ca4659fb3c2" order="18" type="FOLDER" class="NOVEL">
+      <name>Part 2</name>
+      <meta />
+    </item>
+    <item handle="9e0dd5fae5388" parent="63fbee34527d3" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Part 2</name>
+      <meta />
+    </item>
+    <item handle="bd543f3fafdae" parent="63fbee34527d3" order="1" type="FOLDER">
+      <name>Chapter 18</name>
+      <meta />
+    </item>
+    <item handle="867f6e1cf7aa1" parent="bd543f3fafdae" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 18</name>
+      <meta />
+    </item>
+    <item handle="86ea57610a3d7" parent="bd543f3fafdae" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Terry places the 'bomb'</name>
+      <meta />
+    </item>
+    <item handle="27a5130f747df" parent="bd543f3fafdae" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Hal buys food</name>
+      <meta />
+    </item>
+    <item handle="f51bf03746af1" parent="63fbee34527d3" order="2" type="FOLDER">
+      <name>Chapter 19</name>
+      <meta />
+    </item>
+    <item handle="90db642eca937" parent="f51bf03746af1" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 19</name>
+      <meta />
+    </item>
+    <item handle="6e020954a7cc3" parent="f51bf03746af1" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Karl leaves a note, takes Clunk.</name>
+      <meta />
+    </item>
+    <item handle="ac77692785427" parent="f51bf03746af1" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Hal about to hyperspace.</name>
+      <meta />
+    </item>
+    <item handle="518585bf0aae7" parent="63fbee34527d3" order="3" type="FOLDER">
+      <name>Chapter 20</name>
+      <meta />
+    </item>
+    <item handle="56868bc37e234" parent="518585bf0aae7" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 20</name>
+      <meta />
+    </item>
+    <item handle="d438801da6e2b" parent="518585bf0aae7" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Hal gets real Jerling's call. Has to get cargo and robot back.</name>
+      <meta />
+    </item>
+    <item handle="4af3fc6b901b5" parent="518585bf0aae7" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Hal sets course for Forg.</name>
+      <meta />
+    </item>
+    <item handle="4a70b9df66701" parent="518585bf0aae7" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Land on Forg, in rubbish.</name>
+      <meta />
+    </item>
+    <item handle="365b62f09f350" parent="63fbee34527d3" order="4" type="FOLDER">
+      <name>Chapter 21</name>
+      <meta />
+    </item>
+    <item handle="b732e52aae682" parent="365b62f09f350" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 21</name>
+      <meta />
+    </item>
+    <item handle="a8f3dfcd6ccf4" parent="365b62f09f350" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Hal rents a car in Jerling's name and heads towards Forgberg and the Casino.</name>
+      <meta />
+    </item>
+    <item handle="d8766a2532f4e" parent="365b62f09f350" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Hal after almost running Clunk down. Picks him up.</name>
+      <meta />
+    </item>
+    <item handle="c70ca002b0075" parent="63fbee34527d3" order="5" type="FOLDER">
+      <name>Chapter 22</name>
+      <meta />
+    </item>
+    <item handle="b7aaa6c386415" parent="c70ca002b0075" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 22</name>
+      <meta />
+    </item>
+    <item handle="882d2b5b4ddf6" parent="c70ca002b0075" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Find car, go to find clothes.</name>
+      <meta />
+    </item>
+    <item handle="c72a253a26bd7" parent="63fbee34527d3" order="6" type="FOLDER">
+      <name>Chapter 23</name>
+      <meta />
+    </item>
+    <item handle="c3551f051c29c" parent="c72a253a26bd7" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 23</name>
+      <meta />
+    </item>
+    <item handle="7f8d0426914d4" parent="c72a253a26bd7" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Hal sells Clunk</name>
+      <meta />
+    </item>
+    <item handle="9376e7e4c71c4" parent="63fbee34527d3" order="7" type="FOLDER">
+      <name>Chapter 24</name>
+      <meta />
+    </item>
+    <item handle="e890e71ee31f7" parent="9376e7e4c71c4" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 24</name>
+      <meta />
+    </item>
+    <item handle="4e8dcdcb28975" parent="9376e7e4c71c4" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Hal annoyed at Clunk for buying only the best.</name>
+      <meta />
+    </item>
+    <item handle="4a2e660713f5a" parent="9376e7e4c71c4" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Clunk gambling. Fight with human couple.</name>
+      <meta />
+    </item>
+    <item handle="1aaac6e724b01" parent="9376e7e4c71c4" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Sitting on the steps, battered and bruised. Limo arrives for Karl.</name>
+      <meta />
+    </item>
+    <item handle="36f2e512d67cb" parent="63fbee34527d3" order="8" type="FOLDER">
+      <name>Chapter 25</name>
+      <meta />
+    </item>
+    <item handle="ec5fa18b70645" parent="36f2e512d67cb" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 25</name>
+      <meta />
+    </item>
+    <item handle="a65022e3aa9f3" parent="36f2e512d67cb" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Clunk travelling on the back of Karl's limo</name>
+      <meta />
+    </item>
+    <item handle="2543991c86721" parent="36f2e512d67cb" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Clunk sees Hal catching up again. Limo stops.</name>
+      <meta />
+    </item>
+    <item handle="6019e64b05163" parent="63fbee34527d3" order="9" type="FOLDER">
+      <name>Chapter 26</name>
+      <meta />
+    </item>
+    <item handle="b0519556e0104" parent="6019e64b05163" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 26</name>
+      <meta />
+    </item>
+    <item handle="93ccc5f8f56a6" parent="6019e64b05163" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Clunk uploads the Navcom into the ship.</name>
+      <meta />
+    </item>
+    <item handle="c7dfde4624271" parent="63fbee34527d3" order="10" type="FOLDER">
+      <name>Chapter 27</name>
+      <meta />
+    </item>
+    <item handle="1799d63cd53ad" parent="c7dfde4624271" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 27</name>
+      <meta />
+    </item>
+    <item handle="c5b34d85798ad" parent="c7dfde4624271" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">The shop robots want Clunk to escape with them. Mention Hal's capture.</name>
+      <meta />
+    </item>
+    <item handle="5e825ac2e8cd4" parent="c7dfde4624271" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Clunk steals armoured car, drives it into the house.</name>
+      <meta />
+    </item>
+    <item handle="37dcf4103f44d" parent="63fbee34527d3" order="11" type="FOLDER">
+      <name>Chapter 28</name>
+      <meta />
+    </item>
+    <item handle="88a8e61d812c4" parent="37dcf4103f44d" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 28</name>
+      <meta />
+    </item>
+    <item handle="3a8b17de51d63" parent="37dcf4103f44d" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Karl and Terry take the limo</name>
+      <meta />
+    </item>
+    <item handle="b8347496989e6" parent="37dcf4103f44d" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Karl and Terry overtake and head for Spaceport. Looking for Volante.</name>
+      <meta />
+    </item>
+    <item handle="a7c7ce4bb1dec" parent="63fbee34527d3" order="12" type="FOLDER">
+      <name>Chapter 29</name>
+      <meta />
+    </item>
+    <item handle="21bb5d942ea41" parent="a7c7ce4bb1dec" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 29</name>
+      <meta />
+    </item>
+    <item handle="2374ac26fb130" parent="a7c7ce4bb1dec" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Hal and Clunk fleeing in Gull</name>
+      <meta />
+    </item>
+    <item handle="523a61b811cf7" parent="a7c7ce4bb1dec" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Clunk wants to throw stuff at the flyer</name>
+      <meta />
+    </item>
+    <item handle="dd866453109a7" parent="a7c7ce4bb1dec" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Hal fetches the puddings.</name>
+      <meta />
+    </item>
+    <item handle="4fbc150648b0f" parent="63fbee34527d3" order="13" type="FOLDER">
+      <name>Chapter 30</name>
+      <meta />
+    </item>
+    <item handle="cff9d668fe8d8" parent="4fbc150648b0f" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 30</name>
+      <meta />
+    </item>
+    <item handle="5cf6dd5b3fc8b" parent="4fbc150648b0f" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Hal yells at Jerling, then cargo arrives on truck.</name>
+      <meta />
+    </item>
+    <item handle="74f018da3223b" parent="4fbc150648b0f" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Clunk outside, depressed.</name>
+      <meta />
+    </item>
+    <item handle="75dcbd4926492" parent="4fbc150648b0f" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Karl bursts in, armed.</name>
+      <meta />
+    </item>
+    <item handle="d54d9e2f0558d" parent="63fbee34527d3" order="14" type="FOLDER">
+      <name>Chapter 31</name>
+      <meta />
+    </item>
+    <item handle="c1076cb3b33d3" parent="d54d9e2f0558d" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes">Chapter 31</name>
+      <meta />
+    </item>
+    <item handle="6f1c7a5d4f73d" parent="d54d9e2f0558d" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Terry ties Hal in hold, leaves back doors open.</name>
+      <meta />
+    </item>
+    <item handle="f56e85194c784" parent="d54d9e2f0558d" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Hal dodges Brutus, escapes the hold.</name>
+      <meta />
+    </item>
+    <item handle="d511accdf1dbe" parent="63fbee34527d3" order="15" type="FOLDER">
+      <name />
+      <meta />
+    </item>
+    <item handle="0299cef25270d" parent="d511accdf1dbe" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000001" import="i000001" active="yes" />
+      <meta />
+    </item>
+    <item handle="adf96d86dfa6a" parent="d511accdf1dbe" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <name status="s000002" import="i000001" active="yes">Black Gull hyperspaces to oblivion</name>
+      <meta />
+    </item>
+    <item handle="69b26edc36d3f" parent="None" order="19" type="ROOT" class="CHARACTER">
+      <name status="s000001" import="i000001">Characters</name>
+      <meta />
+    </item>
+    <item handle="81d9a9428ac6f" parent="None" order="20" type="ROOT" class="WORLD">
+      <name status="s000001" import="i000001">Locations</name>
+      <meta />
+    </item>
+    <item handle="94b5734be0282" parent="None" order="21" type="ROOT" class="OBJECT">
+      <name status="s000001" import="i000001">Items</name>
+      <meta />
+    </item>
+  </content>
+</novelWriterXML>
