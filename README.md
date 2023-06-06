@@ -21,7 +21,7 @@ Generate a NovelWriter project from a work in progress written with e.g. *LibreO
 
 After placing the downloaded script **odt2nw.py** to a convenient place, you might want to create a shortcut on the desktop. 
 
-If you drag a text document with extension *.odt* and drop it on the icon, a new novelWriter project is generated in a directory named after the mindmap file. 
+If you drag a text document with extension *.odt* and drop it on the icon, a new novelWriter project is generated in a directory named after the document. 
 
 Existing novelWriter project directories will be renamed as a whole and get the extension *.bak*. 
 If there is already such a directory, a new, numbered backup directory is created with the  extension *.bkxxxx*
