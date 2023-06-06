@@ -70,7 +70,7 @@ A work in progress has no third level heading.
 - All other text is considered scene content.
 - Text markup: Bold and italics are supported. Other highlighting such
   as underline and strikethrough are lost.
-- Paragraphs formatted as *Quote* starting with `"> "` in novelWriter.
+- Paragraphs formatted as *Quote* start with `"> "` in novelWriter.
 
 
 ## Credits
