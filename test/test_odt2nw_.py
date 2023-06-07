@@ -38,7 +38,7 @@ def read_file(inputFile):
 
 
 def adjust_timestamp(text):
-    return re.sub('timeStamp=".*?"', 'timeStamp="2023-06-06 20:36:16"', text)
+    return re.sub('timeStamp=".*?"', 'timeStamp="2023-06-07 10:53:35"', text)
 
 
 def remove_all_testfiles():

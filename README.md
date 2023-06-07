@@ -72,6 +72,11 @@ A work in progress has no third level heading.
   as underline and strikethrough are lost.
 - Paragraphs formatted as *Quote* start with `"> "` in novelWriter.
 
+---
+
+![Example document](Screenshots/wip01.png)
+
+---
 
 ## Credits
 
