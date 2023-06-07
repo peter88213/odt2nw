@@ -1,6 +1,6 @@
 # odt2nw
 
-Generate a NovelWriter project from a work in progress written with e.g. *LibreOffice*.  
+Generate a novelWriter project from a work in progress written with e.g. *LibreOffice*.  
 
 ## Features
 
