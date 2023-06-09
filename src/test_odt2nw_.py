@@ -12,9 +12,6 @@ import odt2nw_
 
 # Test environment
 
-# The paths are relative to the "test" directory,
-# where this script is placed and executed
-
 TEST_PATH = f'{os.getcwd()}/../test'
 TEST_DATA_PATH = f'{TEST_PATH}/data/'
 TEST_EXEC_PATH = TEST_PATH
@@ -31,7 +28,7 @@ def read_file(inputFile):
         with open(inputFile, 'r', encoding='utf-8') as f:
             return f.read()
     except:
-        # HTML files exported by a word processor may be ANSI encoded.
+        # File may be ANSI encoded.
         with open(inputFile, 'r') as f:
             return f.read()
 
