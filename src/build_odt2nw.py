@@ -1,8 +1,6 @@
-""" Build python script for the FreeMind to novelWriter converter.
+"""Build a Python script for the FreeMind to novelWriter converter.
         
-In order to distribute single scripts without dependencies, 
-this script "inlines" all modules imported from the pywriter package.
-
+Copyright (c) 2023 Peter Triesberger
 For further information see https://github.com/peter88213/odt2nw
 Published under the MIT License (https://opensource.org/licenses/mit-license.php)
 """
