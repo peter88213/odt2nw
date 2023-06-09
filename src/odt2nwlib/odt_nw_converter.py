@@ -65,7 +65,7 @@ class OdtNwConverter(YwCnvUi):
                 os.makedirs(f'{prjDir}{NwxFile.CONTENT_DIR}')
             targetFile = NwxFile(f'{prjDir}/nwProject.nwx', **kwargs)
             self.ui.set_info_what(
-                _('Create a novelWriter project file from {0}\nNew project: "{1}"').format(sourceFile.DESCRIPTION, norm_path(targetFile.filePath)))
+                _('Create a novelWriter project from {0}\nNew project: "{1}"').format(sourceFile.DESCRIPTION, norm_path(targetFile.filePath)))
             try:
                 self.check(sourceFile, targetFile)
                 sourceFile.novel = Novel()
