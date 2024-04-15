@@ -77,3 +77,37 @@ A work in progress has no third level heading.
 
 odt2nw is distributed under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
 
+---
+
+## See also
+
+
+### nw_metadata
+
+Create a cross reference table with novelWriter metadata. 
+
+[nw_metadata](https://github.com/peter88213/nw_metadata)
+
+
+### mm2nw
+
+Generate a novelWriter project from a FreeMind/Freeplane outline.
+
+[mm2nw](https://github.com/peter88213/mm2nw/)
+
+
+### md2nw
+
+Generate a novelWriter project from a work in progress written with any text editor or Markdown word processor.
+
+[md2nw](https://github.com/peter88213/md2nw/)
+
+
+### yw2nw
+
+Converter between yWriter and novelWriter.
+
+[![yw2nw](img/yw2nw.png)](https://peter88213.github.io/yw2nw/)
+
+
+
