@@ -1,10 +1,10 @@
 # odt2nw
 
-Generate a novelWriter project from a work in progress written with e.g. *LibreOffice*.  
-
 ## Features
 
-- Converts three levels of the novel structure: Parts, chapters, and scenes.
+This Python script generates a [novelWriter](https://novelwriter.io/) project
+from a work in progress written with e.g. *LibreOffice*.
+It converts three levels of the novel structure: Parts, chapters, and scenes.
 
 ## Requirements
 
