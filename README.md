@@ -57,6 +57,8 @@ A work in progress has no third level heading.
 - *Heading 2* → New chapter title.
 - `* * *` → Scene divider (not needed for the first scenes in a
   chapter).
+  **Hint:** The [novelibre-tools](https://github.com/peter88213/novelibre-tools)
+  extension for _LibreOffice/OpenOffice_ provides a macro for inserting such a scene divider into a blank line.
 - Comments right at the scene beginning are considered scene titles.
 - All other text is considered scene content.
 - Text markup: Bold and italics are supported. Other highlighting such
@@ -81,6 +83,11 @@ odt2nw is distributed under the [MIT License](http://www.opensource.org/licenses
 
 ## See also
 
+### novelibre-tools
+
+A LibreOffice/OpenOffice extension that helps prepare the manuscript for conversion.
+
+[novelibre-tools](https://github.com/peter88213/novelibre-tools)
 
 ### nw_metadata
 
