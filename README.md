@@ -58,7 +58,8 @@ A work in progress has no third level heading.
 - `* * *` → Scene divider (not needed for the first scenes in a
   chapter).
   **Hint:** The [novelibre-tools](https://github.com/peter88213/novelibre-tools)
-  extension for _LibreOffice/OpenOffice_ provides a macro for inserting such a scene divider into a blank line.
+  extension for _LibreOffice/OpenOffice_ provides a macro for inserting such a scene divider
+  into an empty line.
 - Comments right at the scene beginning are considered scene titles.
 - All other text is considered scene content.
 - Text markup: Bold and italics are supported. Other highlighting such
